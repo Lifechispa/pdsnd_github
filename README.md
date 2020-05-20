@@ -1,15 +1,19 @@
 ### Date created
-Include the date you created this project and README file.
+Creation of the project 11 May 2020
 
 ### Project Title
-Replace the Project Title
+bikeshare.py
 
 ### Description
-Describe what your project is about and what it does
+Course project for the Udacity Nanodegree on Data Analysis with Python.
+It allows you to view information and statistics from three cities, New York,
+Chicago and Washington.
 
 ### Files used
-Include the files used
+bikeshare.py
+Chicago.cvs
+Newyorkcity.cvs
+Washington.cvs
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Elena Gallego Fernández
