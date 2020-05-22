@@ -249,9 +249,9 @@ def main():
         if restart.lower() != 'yes':
             break
 
-      ## Created by Elena Gallego Fernandez
-      ## 11 May 2020
-
 
 if __name__ == "__main__":
 	main()
+
+      ## Created by Elena Gallego Fernandez
+      ## 11 May 2020
