@@ -5,7 +5,8 @@ Creation of the project 11 May 2020
 bikeshare.py
 
 ### Description
-Course project for the Udacity Nanodegree on Data Analysis with Python.
+Course project for the Udacity Nanodegree programme on Data Analysis with SQL
+and Python.
 It allows you to view information and statistics from three cities, New York,
 Chicago and Washington.
 
