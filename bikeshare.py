@@ -243,12 +243,9 @@ def main():
             show_data = input ('\nWould you like to see five lines of raw data? Enter yes or no\n')
             count += 5
 
-
-        ## We give the user the option to restart
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
 
 if __name__ == "__main__":
 	main()
